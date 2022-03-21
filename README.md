@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RiMa00
 - 👀 I’m interested in embedded software engineering
-- 🌱 I’m currently learning C++/Arduino
+- 🌱 I’m currently learning C/C++
 - 📫 You can reach me on rizvan.matija00@gmail.com
 
 <!---
